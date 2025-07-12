@@ -77,6 +77,7 @@ the city and output the weather forecast directly to the terminal.
 ```bash
 python main_weather_tg_bot.py
 ```
+###
 All you have to do is write the name of the city to the bot and it will send you the weather. 
 If the Telegram bot does not respond, check that the token is correct, the free version of 
 the OpenWeather API is used, and there is a possibility to limit the number of requests.
