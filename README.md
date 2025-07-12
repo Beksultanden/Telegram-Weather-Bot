@@ -24,8 +24,8 @@ weather_bot_project/
 ### 1. Cloning a repository
 
 ```bash
-git clone https://github.com/USERNAME/weather_bot_project.git
-cd weather_bot_project
+git clone https://github.com/USERNAME/Telegram-Weather-Bot.git
+cd Telegram-Weather-Bot
 ```
 
 ### 2. Creating and activating a virtual environment
